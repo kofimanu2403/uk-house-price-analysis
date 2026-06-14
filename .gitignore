@@ -6,3 +6,5 @@ __pycache__/
 raw_data.csv
 *.csv
 *.zip
+*.swp
+nvim
